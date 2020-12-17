@@ -24,4 +24,10 @@ Make sure your PC is conncted to Internet while Gradle Building to download depe
 
 and also make sure your Mobile phone also connected to Internet becasue it has to fetch infromation from Firebase Database.
 
+This will only work on Such devices which support ARCORE 
+devices which supports ARCORE are 
+
+https://developers.google.com/ar/discover/supported-devices
+
+
 Enjoy!!!
